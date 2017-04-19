@@ -1,0 +1,48 @@
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.pdb
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\bin\Debug\MjpegProcessor.dll
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\MainWindow.baml
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\MainWindow.g.cs
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\App.g.cs
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF_MarkupCompile.cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.g.resources
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe
+c:\users\acer\documents\visual studio 2013\Projects\testPlayerClient_WPF\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.pdb
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.config
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.pdb
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.pdb
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\MainWindow.baml
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\App.g.cs
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF_MarkupCompile.cache
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.g.resources
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.Properties.Resources.resources
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.manifest
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.application
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe.manifest
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.application
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.config
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.pdb
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.manifest
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.application
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.pdb
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\MainWindow.baml
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\App.g.cs
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF_MarkupCompile.cache
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.g.resources
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.Properties.Resources.resources
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe.manifest
+C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.application

@@ -1,0 +1,15 @@
+U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\ResolveAssemblyReference.cache
+U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.dll
+U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.pdb
+U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.dll
+U:\Development\Projects\VS 2008\Projects\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.pdb
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.dll
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.pdb
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.dll
+C:\Users\Acer\Desktop\RTMP\RTA_VIDEO_STREAMER\rtaVideoStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\WPF_RtaStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\WPF_RtaStreamer\rtaNetworking.Streaming\bin\Debug\rtaNetworking.Streaming.pdb
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\WPF_RtaStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\WPF_RtaStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.dll
+C:\Users\Acer\Documents\Visual Studio 2013\Projects\WPF_RtaStreamer\rtaNetworking.Streaming\obj\Debug\rtaNetworking.Streaming.pdb

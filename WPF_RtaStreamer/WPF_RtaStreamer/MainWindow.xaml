@@ -1,0 +1,39 @@
+﻿<Window x:Class="WPF_RtaStreamer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RTAStreamer" Height="350" Width="525">
+    <Grid>
+        <Label 
+           
+            x:Name="ConfiramtionLabel"
+            Content="RTA Streaming Server" 
+            HorizontalAlignment="Center" 
+            Margin="0,30,0,0"
+            VerticalAlignment="Top"/>
+        <Button 
+            x:Name="StartButton"
+            Content="Start Streaming" 
+            HorizontalAlignment="Center" 
+            Margin="0,90,0,0" 
+            VerticalAlignment="Top" 
+            Width="95" 
+            Click="StartButton_Click"/>
+        <TextBlock 
+            x:Name="ClientCount"
+            HorizontalAlignment="Center" 
+            Margin="0,220,0,0" 
+            TextWrapping="Wrap" 
+            Text="Client Count" 
+            VerticalAlignment="Top" 
+            RenderTransformOrigin="-3.714,5.038"/>
+        <TextBox 
+            x:Name="IpBox"
+            IsReadOnly="True"
+            HorizontalAlignment="Center" 
+            Margin="0,174,0,0"  
+            Text="ServerIpAndPortURL" 
+            VerticalAlignment="Top"/>
+        
+
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+
+15 frame per second
+
+resolution : 480p
