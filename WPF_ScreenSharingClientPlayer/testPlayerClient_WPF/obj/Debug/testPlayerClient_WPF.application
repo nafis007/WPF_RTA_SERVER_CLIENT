@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="testPlayerClient_WPF.exe.manifest" size="4174">
+    <dependentAssembly dependencyType="install" codebase="testPlayerClient_WPF.exe.manifest" size="4175">
       <assemblyIdentity name="testPlayerClient_WPF.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>e7XkxXTDTRaQmGwuVh2+ukmWO84qyttQIuF6Uz5RyDI=</dsig:DigestValue>
+        <dsig:DigestValue>OZOmYXs0fLiO9JPRudU5BSGqLNzrdrXtt+u4PaKLxjg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

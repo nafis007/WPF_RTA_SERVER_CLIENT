@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="testPlayerClient_WPF.exe" size="9728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="testPlayerClient_WPF.exe" size="10240">
       <assemblyIdentity name="testPlayerClient_WPF" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DzSK9koewddqJPtwB806tjG1dPVbxNiRQgZSjlwomds=</dsig:DigestValue>
+        <dsig:DigestValue>Jn2pd4znCJs1KqDJ6+PdzSeugjaJ4kWYoaEESoo/80U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

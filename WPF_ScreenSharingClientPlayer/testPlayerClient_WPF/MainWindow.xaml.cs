@@ -38,7 +38,12 @@ namespace testPlayerClient_WPF
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if ( !buttonClicked )
+            if (UrlField.Text == "")
+            {
+                MessageBoxResult result =
+                    MessageBox.Show("Give a valid URL!!", "Confirmation", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            else if ( !buttonClicked )
             {
                 buttonClicked = true;
                 playSharedScreen();
