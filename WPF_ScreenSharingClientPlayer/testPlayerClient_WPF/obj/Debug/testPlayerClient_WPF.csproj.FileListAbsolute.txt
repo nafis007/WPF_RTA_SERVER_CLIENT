@@ -46,3 +46,6 @@ C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPl
 C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.csproj.GenerateResource.Cache
 C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe.manifest
 C:\Users\Acer\Desktop\WPF_RTA_SERVER_CLIENT\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.application
+C:\Users\Acer\Desktop\From Muktadir Vai RTA\WPF_RTA_SERVER_CLIENT-Refactored_MuktadirVai\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\bin\Debug\testPlayerClient_WPF.exe.config
+C:\Users\Acer\Desktop\From Muktadir Vai RTA\WPF_RTA_SERVER_CLIENT-Refactored_MuktadirVai\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.exe
+C:\Users\Acer\Desktop\From Muktadir Vai RTA\WPF_RTA_SERVER_CLIENT-Refactored_MuktadirVai\WPF_ScreenSharingClientPlayer\testPlayerClient_WPF\obj\Debug\testPlayerClient_WPF.pdb
