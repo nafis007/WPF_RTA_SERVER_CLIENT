@@ -18,6 +18,8 @@ namespace rtaNetworking.Streaming.nafis {
         private List<Socket> _Clients;
         private Thread _Thread;
         private int myPort;
+
+        private static int resolution = 480;
         public int Port {
             get { return myPort; }
             set { myPort = value; }
@@ -57,7 +59,8 @@ namespace rtaNetworking.Streaming.nafis {
         public bool IsRunning { get { return ( _Thread != null && _Thread.IsAlive ); } }
 
         public ImageStreamingServer()
-            : this( Screen.Snapshots( 1080, true ) ) {
+            : this(Screen.Snapshots( resolution, true))
+        {
 
         }
 
