@@ -10,6 +10,12 @@ namespace rtaNetworking.Streaming.nafis {
     public static class Screen {
 
 
+        public static IEnumerable<Image> Snapshots() {
+
+            return Screen.Snapshots( System.Windows.Forms.Screen.PrimaryScreen.Bounds.Height, true );
+
+        }
+
         /// <summary>
         /// Returns a 
         /// </summary>
