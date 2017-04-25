@@ -64,7 +64,8 @@ namespace WPF_RtaStreamer
 
                 _Server = new ImageStreamingServer();
 
-                _Server.MaxClients = 10;
+                _Server.MaxClients = 16;  //can be set as pleased, but should be a little above 16
+                                          // to be on the safe side, because of ghost clients
                 _Server.StartWithRandomPort();                            
 
                 IpBox.Text = _Server.getServerURL();

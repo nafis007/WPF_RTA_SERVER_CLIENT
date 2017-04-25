@@ -57,7 +57,7 @@ namespace rtaNetworking.Streaming.nafis {
         public bool IsRunning { get { return ( _Thread != null && _Thread.IsAlive ); } }
 
         public ImageStreamingServer()
-            : this( Screen.Snapshots( 480, true ) ) {
+            : this( Screen.Snapshots( 1080, true ) ) {
 
         }
 
